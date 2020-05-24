@@ -1,10 +1,10 @@
 This only works with Windows and with Chrome browser
 
-You will need to install the Geckodriver from ---
-https://chromedriver.chromium.org/downloads
+You will need to install the Chrome driver I have added ---
+
 
 1. Simply pass in the URL you want to bruteforce
-2. Choose the geckodriver.exe file
+2. Choose the chromedriver.exe file
 3. Insert the xPath of the username input
 4. Insert the XPath of the password input
 5. Give it a time sleep (number) if the page refreshes on submission. Give it 0 if page does not refresh for faster results
